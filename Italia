@@ -1,0 +1,124 @@
+{
+	"capitales": [{
+		"nombre": “Venecia",
+		"provincia": “Provincia de Venecia",
+		"longitud": 12.2416596,
+		"latitud": 45.405578,
+		"región": "Véneto"
+	}, {
+		"nombre": “Génova",
+		"provincia": “Provincia de Génova",
+		"longitud": 8.7507489,
+		"latitud": 44.4469149,
+		"región": "Liguria"
+	}, {
+		"nombre": “Milán",
+		"provincia": “Provincia de Milán",
+		"longitud": 9.1076926,
+		"latitud": 45.4627124,
+		"región": "Lombardía"
+	}, {
+		"nombre": “Perugia",
+		"provincia": “Provincia de Perugia",
+		"longitud": 12.3102844,
+		"latitud": 43.094997,
+		"región": "Umbría"
+	}, {
+		"nombre": “Potenza",
+		"provincia": “Provincia de Potenza",
+		"longitud": 15.7738101,
+		"latitud": 40.6412232,
+		"región": "Basilicata"
+	}, {
+		"nombre": “L’Aquila",
+		"provincia": “Provincia de L’Aquila",
+		"longitud": 13.3507466,
+		"latitud": 42.3633794,
+		"región": "Abruzos"
+	}, {
+		"nombre": “Pésaro",
+		"provincia": “Provincia de Pésaro y Urbino",
+		"longitud": 12.8594754,
+		"latitud": 43.8998092,
+		"región": "Marcas"
+	}, {
+		"nombre": “Lucca",
+		"provincia": “Provincia de Bérgamo",
+		"longitud": 10.4022998,
+		"latitud": 43.8496879,
+		"región": "Toscana"
+	}, {
+		"nombre": “Bérgamo",
+		"provincia": “Provincia de Venecia",
+		"longitud": 9.6320702,
+		"latitud": 45.693177,
+		"región": "Lombardía"
+	}, {
+		"nombre": “Pisa",
+		"provincia": “Provincia de Pisa",
+		"longitud": 10.3603588,
+		"latitud": 43.7067454,
+		"región": "Toscana"
+	}, {
+		"nombre": “Bolzano",
+		"provincia": “Provincia autónoma de Bolzano",
+		"longitud": 11.3121383,
+		"latitud": 46.4892313,
+		"región": " Trentino-Alto Adigio"
+	}, {
+		"nombre": “Massa",
+		"provincia": “Massa-Carrara",
+		"longitud": 10.0751827,
+		"latitud": 44.0172693
+		"región": "Toscana"
+	}, {
+		"nombre": “Verona",
+		"provincia": “Provincia de Verona",
+		"longitud": 10.9194931,
+		"latitud": 45.3816234,
+		"región": "Véneto"
+	}, {
+		"nombre": “Agrigento",
+		"provincia": “Provincia de Agrigento",
+		"longitud": 13.5510912,
+		"latitud": 37.2963438,
+		"región": "Sicilia"
+	}, {
+		"nombre": “Roma",
+		"provincia": “Provincia de Roma",
+		"longitud": 12.3959144,
+		"latitud": 41.909986,
+		"región": "Lacio"
+	}, {
+		"nombre": “Florencia",
+		"provincia": “Provincia de Florencia",
+		"longitud": 11.1709282,
+		"latitud": 43.7799368,
+		"región": "Toscana"
+	}, {
+		"nombre": “Nápoles",
+		"provincia": “Provincia de Nápoles",
+		"longitud": 14.1765625,
+		"latitud": 40.8539645,
+		"región": "Campania”
+	}, {
+		"nombre": “Siena",
+		"provincia": “Provincia de Siena",
+		"longitud": 11.2926298,
+		"latitud": 43.3160031,
+		"región": "Toscana"
+	}, {
+		"nombre": “Padua",
+		"provincia": “Padua",
+		"longitud": 11.8212058,
+		"latitud": 45.4064823,,
+		"región": "Véneto"
+	}, {
+		"nombre": “Palermo",
+		"provincia": “Provincia de Palermo",
+		"longitud": 13.2872486,
+		"latitud": 38.1404646,
+		"región": "Sicilia"	
+	}]
+}
+
