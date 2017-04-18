@@ -1,0 +1,123 @@
+{
+	  "ciudades": [{
+		 "nombre": "Soledad",
+                 "Jarl" : "Elisif la justa",
+		 "Raza": "Humanos Imperiales",
+                 "X" : 601,
+                 "Y" :  98
+   },{
+                 "nombre": "Carrera Blanca",
+                 "Jarl" : "Balgruuf el grande",
+	         "Raza" : "Humanos Imperiales",
+                 "X" : 1000,
+                 "Y" : 503
+   },{
+                 "nombre": "Ventalia",
+                 "Jarl" : "Ulfric capa de la tormenta",
+	         "Raza" : "Humanos Capas de la Tormenta",
+                 "X" : 1488,
+                 "Y" : 373
+   },{
+                 "nombre": "Riften",
+                 "Jarl" : "Laila la legisladora",
+	         "Raza" : "Humanos Capas de la Tormenta",
+                 "X" : 1690,
+                 "Y" :919
+   },{
+                 "nombre": "Markath",
+                 "Jarl" : "Igmund",
+	         "Raza" : "Humanos Imperiales",
+                 "X" : 232,
+                 "Y": 500
+   },{
+                 "nombre": "Lucero del Alva",
+                 "Jarl" : "Escaldo",
+	         "Raza" : "Humanos cazadores de vampiros",
+                 "X" : 1056,
+                 "Y" :98
+   },{
+                 "nombre": "Hibernalia",
+                 "Jarl" : "Korir",
+	         "Raza" : "Aprendices de Magos",
+                 "X" : 1405,
+                 "Y": 100
+   },{
+                 "nombre": "Morthal",
+                 "Jarl" : "Idgrod el cuervo viejo",
+	         "Raza" : "Humanos Imperiales",
+                 "X" : 841,
+                 "Y": 266
+   },{
+                 "nombre": "Falkreath",
+                 "Jarl" : "Siddgeir",
+	         "Raza" : "Humanos Imperiales",
+                 "X" : 765,
+                 "Y" : 904
+   },{
+	         "nombre": "Helguen",
+                 "Jarl" : "Hadvar",
+	         "Raza" : "Humanos",
+                 "X" : 1056,
+                 "Y": 860
+   },{
+	         "nombre": "Cauce Boscoso",
+                 "Jarl" : "Lucano Valerio",
+	         "Raza" : "Humanos",
+                 "X" : 1012,
+                 "Y": 725
+   },{
+	         "nombre": "Paraje Rorick",
+                 "Jarl" : "Lucano Valerio",
+	         "Raza" : "Humanos",
+                 "X" : 597,
+                 "Y": 503
+   },{
+	         "nombre": "Puente del Dragon",
+                 "Jarl" : "Faida",
+	         "Raza" : "Humanos",
+                 "X" : 455,
+                 "Y": 180
+   },{
+	         "nombre": "Peñon de Shor",
+                 "Jarl" : "Filnjar",
+	         "Raza" : "Humanos",
+                 "X" : 1640,
+                 "Y": 795
+   },{
+	         "nombre": "Baldío de Karth",
+                 "Jarl" : "Atar",
+	         "Raza" : "Humanos",
+                 "X" : 321,
+                 "Y": 370
+   },{
+	         "nombre": "Paraje de Ivar",
+                 "Jarl" : "Klimmek",
+	         "Raza" : "Humanos",
+                 "X" : 1333,
+                 "Y": 794
+   },{
+	         "nombre": "Alto Hrothgar",
+                 "Jarl" : "Arngeir",
+	         "Raza" : "Barbas Grises",
+                 "X" : 1202,
+                 "Y": 632
+   },{
+	         "nombre": "Largashbur",
+                 "Jarl" : "Yamarz",
+	         "Raza" : "Orcos",
+                 "X" : 1465,
+                 "Y": 920
+   },{
+	         "nombre": "Dushnikh Yal",
+                 "Jarl" : "Burguk ",
+	         "Raza" : "Orcos",
+                 "X" : 411,
+                 "Y": 607
+   },{
+	         "nombre": "Narzulbur",
+                 "Jarl" : "Mauhulakh",
+	         "Raza" : "Orcos",
+                 "X" : 1656,
+                 "Y": 537
+	   }]
+}
